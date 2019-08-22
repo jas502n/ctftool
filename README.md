@@ -1,5 +1,8 @@
 # CTFTOOL
 
+`script .\scripts\ctf-consent-system.ctf`
+![](./ctftools.gif)
+
 `file ./scripts/ctf-logonui-system.ctf`
 
 ```
